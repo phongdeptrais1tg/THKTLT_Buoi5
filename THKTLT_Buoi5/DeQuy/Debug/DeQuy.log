@@ -1,6 +1,7 @@
 ﻿  DeQuy.cpp
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(20,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(25,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(11,9): warning C4101: 'arr': unreferenced local variable
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(10,20): warning C4101: 'x': unreferenced local variable
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(25,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(30,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(35,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(38,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\DeQuy\DeQuy.cpp(15,20): warning C4101: 'x': unreferenced local variable
   DeQuy.vcxproj -> C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\Debug\DeQuy.exe
