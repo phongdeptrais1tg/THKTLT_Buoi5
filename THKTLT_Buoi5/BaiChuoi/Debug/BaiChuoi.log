@@ -1,7 +1,7 @@
 ﻿  Chuoi.cpp
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(44,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(35,10): warning C4101: 'students': unreferenced local variable
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(34,18): warning C4101: 'lastName': unreferenced local variable
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(36,9): warning C4101: 'n': unreferenced local variable
-C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(34,33): warning C4101: 'firstName': unreferenced local variable
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(56,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(46,10): warning C4101: 'students': unreferenced local variable
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(45,18): warning C4101: 'lastName': unreferenced local variable
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(47,9): warning C4101: 'n': unreferenced local variable
+C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\BaiChuoi\Chuoi.cpp(45,33): warning C4101: 'firstName': unreferenced local variable
   BaiChuoi.vcxproj -> C:\Users\WIN-MAC\Desktop\Tài Liệu Môn Học\THKTLT\THKTLT_Buoi5\THKTLT_Buoi5\Debug\BaiChuoi.exe
